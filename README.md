@@ -1,3 +1,3 @@
-# jankenpo-ruby-cli
+Ruby CLI version without RSpec tests for now but I tested manually.
 
-I will finish it when I will have time.
+https://www.youtube.com/watch?v=c3SSshLvfyU&feature=youtu.be
